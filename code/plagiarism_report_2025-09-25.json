@@ -1,0 +1,162 @@
+{
+  "analysis_date": "2025-09-25T16:36:21.718844",
+  "suspicious_text_preview": "An apple is the round, edible fruit of an apple tree (Malus spp.). Fruit trees of the orchard or domestic apple (Malus domestica), the most widely grown in the genus, are cultivated worldwide. The tre...",
+  "sources_checked": 1,
+  "overall_similarity": 1.0,
+  "risk_level": "HIGH",
+  "detailed_matches": [
+    {
+      "pattern": "appl",
+      "position": 0,
+      "length": 4,
+      "end_position": 3,
+      "source": "apple fruit"
+    },
+    {
+      "pattern": "pple",
+      "position": 1,
+      "length": 4,
+      "end_position": 4,
+      "source": "apple fruit"
+    },
+    {
+      "pattern": "ple ",
+      "position": 2,
+      "length": 4,
+      "end_position": 5,
+      "source": "apple fruit"
+    },
+    {
+      "pattern": "le r",
+      "position": 3,
+      "length": 4,
+      "end_position": 6,
+      "source": "apple fruit"
+    },
+    {
+      "pattern": "e ro",
+      "position": 4,
+      "length": 4,
+      "end_position": 7,
+      "source": "apple fruit"
+    },
+    {
+      "pattern": " rou",
+      "position": 5,
+      "length": 4,
+      "end_position": 8,
+      "source": "apple fruit"
+    },
+    {
+      "pattern": "roun",
+      "position": 6,
+      "length": 4,
+      "end_position": 9,
+      "source": "apple fruit"
+    },
+    {
+      "pattern": "ound",
+      "position": 7,
+      "length": 4,
+      "end_position": 10,
+      "source": "apple fruit"
+    },
+    {
+      "pattern": "und ",
+      "position": 8,
+      "length": 4,
+      "end_position": 11,
+      "source": "apple fruit"
+    },
+    {
+      "pattern": "nd e",
+      "position": 9,
+      "length": 4,
+      "end_position": 12,
+      "source": "apple fruit"
+    },
+    {
+      "pattern": "d ed",
+      "position": 10,
+      "length": 4,
+      "end_position": 13,
+      "source": "apple fruit"
+    },
+    {
+      "pattern": " edi",
+      "position": 11,
+      "length": 4,
+      "end_position": 14,
+      "source": "apple fruit"
+    },
+    {
+      "pattern": "edib",
+      "position": 12,
+      "length": 4,
+      "end_position": 15,
+      "source": "apple fruit"
+    },
+    {
+      "pattern": "dibl",
+      "position": 13,
+      "length": 4,
+      "end_position": 16,
+      "source": "apple fruit"
+    },
+    {
+      "pattern": "ible",
+      "position": 14,
+      "length": 4,
+      "end_position": 17,
+      "source": "apple fruit"
+    },
+    {
+      "pattern": "ble ",
+      "position": 15,
+      "length": 4,
+      "end_position": 18,
+      "source": "apple fruit"
+    },
+    {
+      "pattern": "le f",
+      "position": 16,
+      "length": 4,
+      "end_position": 19,
+      "source": "apple fruit"
+    },
+    {
+      "pattern": "e fr",
+      "position": 17,
+      "length": 4,
+      "end_position": 20,
+      "source": "apple fruit"
+    },
+    {
+      "pattern": " fru",
+      "position": 18,
+      "length": 4,
+      "end_position": 21,
+      "source": "apple fruit"
+    },
+    {
+      "pattern": "frui",
+      "position": 19,
+      "length": 4,
+      "end_position": 22,
+      "source": "apple fruit"
+    }
+  ],
+  "sources_used": [
+    {
+      "topic": "apple fruit",
+      "content": "Page: Apple\nSummary: An apple is the round, edible fruit of an apple tree (Malus spp.). Fruit trees of the orchard or domestic apple (Malus domestica), the most widely grown in the genus, are cultivated worldwide. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found. Apples have been grown for thousands of years in Eurasia before they were introduced to North America by European colonists. Apples have cultural significance in many mythologies (including Norse and Greek) and religions (such as Christianity in Europe).\nApples grown from seeds tend to be very different from those of their parents, and the resultant fruit frequently lacks desired characteristics. For commercial purposes, including botanical evaluation, apple cultivars are propagated by clonal grafting onto rootstocks. Apple trees grown without rootstocks tend to be larger and much slower to fruit after planting. Rootstocks are used to control the speed of growth and the size of the resulting tree, allowing for easier harvesting.\nThere are more than 7,500 cultivars of apples. Different cultivars are bred for various tastes and uses, including cooking, eating raw, and cider or apple juice production. Trees and fruit are prone to fungal, bacterial, and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in apple production.\n\nPage: Custard apple\nSummary: Custard apple is a common name for several fruits and may refer to Annonaceae, the custard apple family, which includes the following species referred to as custard apples:\n\nAnnona cherimola, a tree and fruit also called cherimoya\nAnnona muricata, a tree and fruit also called guan\u00e1bana or soursop\nAnnona reticulata, a tree and fruit also called custard apple, ox heart or bullock's heart\nAnnona senegalensis, a tree and fruit called wild custard-apple\nAnnona squamosa, a tree and fruit ",
+      "source": "Wikipedia: apple fruit",
+      "length": 2000
+    }
+  ],
+  "statistics": {
+    "total_matches": 20,
+    "unique_patterns_matched": 20,
+    "average_match_length": 4.0
+  }
+}
